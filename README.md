@@ -21,6 +21,3 @@ AQI patterns vary significantly across seasons Different pollutants dominate AQI
 
 Programming Language: Python Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn Techniques: K-Means Clustering, Elbow Method, EDA, Feature Standardization
 
-# 🚀 Use Cases
-
-Environmental data analysis and research Policy planning and pollution control strategies Academic projects in ML, Data Science, and Environmental Analytics
